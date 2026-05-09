@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f8f9fa;
+    background-color:#92a7bb;
     color: #333;
     line-height: 1.6;
 }
@@ -37,7 +37,7 @@ header h2 {
     max-width: 800px;
     margin: 30px auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #ffffff;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     border-radius: 8px;
 }
